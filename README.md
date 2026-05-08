@@ -1,4 +1,4 @@
-# Matplotlib Practice Projects
+# Matplotlib Practice-Projects
 
 ## Overview
 
